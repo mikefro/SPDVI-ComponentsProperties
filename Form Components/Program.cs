@@ -22,7 +22,7 @@ namespace Form_Components
 
             void NewMethod()
             {
-                Application.Run(new Form1());
+                Application.Run(new mainForm());
             }
         }
     }
